@@ -1,5 +1,4 @@
-# Respositório de recursos para o curso de Mongo DB - Renan Pallin
-
+# Respositório de recursos para o curso de Mongo DB 
 O repositório consiste em duas bases de dados que são utilizadas no curso de Mongo DB.
 
 O arquivo modify.py faz algumas alterações em tipos de dados e gera outros arquivos, os quais serão importados.
@@ -16,7 +15,6 @@ https://www.kaggle.com/shivamb/netflix-shows
 
 https://www.kaggle.com/terminus7/pokemon-challenge
 
-## Author
 
-Instagram:
-@pallinrenan
+
+
